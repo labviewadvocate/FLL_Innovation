@@ -48,8 +48,8 @@
                             .inside-page__heading--Boxing,
                             .card-front__text-view--Boxing { color: #2aaac1; }
 
-                            .inside-page__heading--beach,
-                            .card-front__text-view--beach { color: #fa7f67; }
+                            .inside-page__heading--Stretch,
+                            .card-front__text-view--Stretch { color: #fa7f67; }
 
                             .inside-page__heading--camping,
                             .card-front__text-view--camping { color: #00b97c; }
@@ -129,12 +129,12 @@
                             background-color: #279eb2;
                             }
 
-                            .inside-page__btn--beach { 
+                            .inside-page__btn--Stretch { 
                             border-color: #fa7f67;
                             color: #fa7f67;
                             }
 
-                            .inside-page__btn--beach::before { 
+                            .inside-page__btn--Stretch::before { 
                             background-color: #fa7f67;
                             }
 
@@ -278,7 +278,7 @@
                             );
                             }
 
-                            .card-front__tp--beach {
+                            .card-front__tp--Stretch {
                             background: linear-gradient(
                                 to bottom,
                                 #fb9b88,
