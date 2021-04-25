@@ -51,8 +51,8 @@
                             .inside-page__heading--Stretch,
                             .card-front__text-view--Stretch { color: #fa7f67; }
 
-                            .inside-page__heading--camping,
-                            .card-front__text-view--camping { color: #00b97c; }
+                            .inside-page__heading--Random,
+                            .card-front__text-view--Random { color: #00b97c; }
 
                             /* Front cover */
 
@@ -138,12 +138,12 @@
                             background-color: #fa7f67;
                             }
 
-                            .inside-page__btn--camping { 
+                            .inside-page__btn--Random { 
                             border-color: #00b97d;
                             color: #00b97d;
                             }
 
-                            .inside-page__btn--camping::before { 
+                            .inside-page__btn--Random::before { 
                             background-color: #00b97d;
                             }
 
@@ -286,7 +286,7 @@
                             );
                             }
 
-                            .card-front__tp--camping {
+                            .card-front__tp--Random {
                             background: linear-gradient(
                                 to bottom,
                                 #00db93,
